@@ -1,6 +1,7 @@
-- 👋 Olá sou a Rafaela, estudante de Análise e Desenvolvimento de Sistemas - PUCPR |
-- 🌱 Atualmente estou aprendendo C# | JAVA | PYTHON | .NET | ASP.NET| HTML | CSS | JS | MYSQL | SQL Server
-- ✨ Graduada em Pedagogia e Psicopedagogia
+- 👋 Olá sou a Rafa, estudante de Análise e Desenvolvimento de Sistemas - PUCPR |
+- 👩🏻‍🎓 No momento estagiária 
+- 📚 Atualmente estou aprendendo C# | .NET | ASP.NET| HTML | CSS | JS | MYSQL | SQL Server | OracleDB 
+- 👩🏻‍🏫 Graduada em Pedagogia e Psicopedagogia
 - 📫 Me encontre no Linkedin encurtador.com.br/mstLS 
 
 <!---
