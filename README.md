@@ -1,6 +1,6 @@
 - 👋 Olá sou a Rafa, estudante de Análise e Desenvolvimento de Sistemas - PUCPR |
 - 👩🏻‍🎓 No momento estagiária 
-- 📚 Atualmente estou aprendendo C# | .NET | ASP.NET| HTML | CSS | JS | MYSQL | SQL Server | OracleDB 
+- 📚 Atualmente estou aprendendo C# | .NET | ASP.NET| HTML | CSS | JS | React | MYSQL | SQL Server | OracleDB 
 - 👩🏻‍🏫 Graduada em Pedagogia e Psicopedagogia
 - 📫 Me encontre no Linkedin encurtador.com.br/mstLS 
 
