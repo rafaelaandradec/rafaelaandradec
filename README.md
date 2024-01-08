@@ -1,5 +1,5 @@
 - 👋 Olá sou a Rafa, estudante de Análise e Desenvolvimento de Sistemas - PUCPR |
-- 👩🏻‍🎓 No momento estagiária na Big Blue
+- 👩🏻‍🎓 Early Developer Intern
 - 📚 Atualmente estou aprendendo C# | ANGULAR | .NET | ASP.NET| HTML | CSS | JS | ReactJs | OracleDB | UX
 - 📫 Me encontre no Linkedin encurtador.com.br/mstLS 
 
