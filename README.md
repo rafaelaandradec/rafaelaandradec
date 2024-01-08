@@ -1,6 +1,6 @@
 - 👋 Olá sou a Rafa, estudante de Análise e Desenvolvimento de Sistemas - PUCPR |
 - 👩🏻‍🎓 Early Developer Intern
-- 📚 Atualmente estou aprendendo C# | ANGULAR | .NET | ASP.NET| HTML | CSS | JS | ReactJs | OracleDB | UX
+- 📚 Atualmente estou aprendendo C# | ANGULAR | .NET | ASP.NET| HTML | CSS | JS | ReactJs | OracleDB 
 - 📫 Me encontre no Linkedin encurtador.com.br/mstLS 
 
 <!---
