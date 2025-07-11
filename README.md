@@ -1,5 +1,5 @@
 - 👋 Olá sou a Rafa, Graduada em Análise e Desenvolvimento de Sistemas - PUCPR |
-- 👩🏻‍🎓 Jr. Application Developer IBM | Frontend Jr.
+- 👩🏻‍🎓 Jr. Application Developer IBM | Fullstack Developer
 - 📚 Atualmente estou aprendendo ANGULAR | C# | .NET | ASP.NET| HTML | CSS | JS | ReactJs | OracleDB 
 - 📫 Me encontre no Linkedin encurtador.com.br/mstLS 
 
