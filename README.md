@@ -1,7 +1,7 @@
 - 👋 Olá sou a Rafa
 - 👩🏻‍🎓 Graduada em Análise e Desenvolvimento de Sistemas - PUCPR 
 - 👩🏻‍💻 QA | Jr. Application Developer | Jr. Fullstack Developer - IBM
-- 📚 JAVA | GHERKIN | CUCUMBER | ANGULAR | C# | .NET | ASP.NET| Testes Unitários | OracleDB 
+- 📚  JAVA | GHERKIN | CUCUMBER | ANGULAR | C# | .NET | ASP.NET| Testes Unitários | OracleDB 
 - 📫 Me encontre no Linkedin encurtador.com.br/mstLS 
 
 <!---
